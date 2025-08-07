@@ -1,0 +1,20 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "binance>=0.3.60",
+    "flask>=3.1.1",
+    "imbalanced-learn>=0.12.4",
+    "joblib>=1.5.1",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "replit-object-storage>=1.0.2",
+    "requests>=2.32.4",
+    "scikit-learn>=1.7.1",
+    "websocket-client>=1.8.0",
+    "websocket>=0.2.1",
+    "yfinance>=0.2.65",
+]
